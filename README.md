@@ -1,104 +1,168 @@
-﻿<div align="center">
+﻿<h1 align="center">Hola 👋 soy Joan / joanferreyt </h1>
 
-# Hola, soy Joan 👋
+<p align="center">
+  <a href="https://www.youtube.com/@joanferreyt" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@joanferreyt" /></a>
+  <a href="https://www.tiktok.com/@joanferree" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@joanferree" /></a>
+  <a href="https://www.instagram.com/joanferreyt/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@joanferreyt" /></a>
+  <a href="https://www.linkedin.com/in/joan-ferre-vano" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="joan-ferre-vano" /></a>
+  <a href="https://joanferrevano.github.io/joanferre/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+<br>
 
-### Desarrollador de aplicaciones · Creador audiovisual
+<h2>Sobre mí 😃</h2>
+<p align="left">
 
----
-- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
-- Cursando Realización de Proyectos Audiovisuales
-- Banyeres de Mariola, Alicante — España
+🎓 TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES MULTIPLATAFORMA — actualmente cursando Realización de Proyectos Audiovisuales
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@joanferreyt)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@joanferree)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joanferreyt/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://joanferrevano.github.io/joanferre/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-ferre-vano)
+🎥 CREADOR DE CONTENIDO en YouTube (@joanferreyt), donde comparto autosuperación y desarrollo personal con el mismo enfoque analítico que uso programando
 
+💻 desarrollo de software: apps móviles, backends, automatización de procesos con Odoo
+
+📝 roles: desarrollador... editor de vídeo... creador de contenido... y pronto realizador audiovisual
+
+📫 Contacto: **[joanferrecontact](joanferrecontact@gmail.com)**
+
+</p>
+<br>
+
+<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,spring,cs,py,html,css,js,aws,git,github,vscode,figma&perline=8" />
+  </a>
+</p>
+<br>
+
+<h2>Software de edición 🎬</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/vidIQ-E62117?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+</p>
+<br>
+
+<div id="proyectos">
+<h2>Proyectos de código 👨🏻‍💻</h2>
+
+<table align="left">
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="https://github.com/PROJ-FerreVanoJoan" title="Ver proyecto">
+        <img align="center" width="100%" src="https://opengraph.githubassets.com/1/PROJ-FerreVanoJoan" alt="BatoiLOGIC" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/PROJ-FerreVanoJoan" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="BatoiLOGIC" /></a>
+    </p>
+  </td>
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="https://github.com/joanferrevano/la-caseta" title="Ver proyecto">
+        <img align="center" width="100%" src="https://opengraph.githubassets.com/1/joanferrevano/la-caseta" alt="La Caseta" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/joanferrevano/la-caseta" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="La Caseta" /></a>
+    </p>
+  </td>
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="https://github.com/joanferrevano/pausa-app" title="Ver proyecto">
+        <img align="center" width="100%" src="https://opengraph.githubassets.com/1/joanferrevano/pausa-app" alt="PAUSA" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/joanferrevano/pausa-app" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="PAUSA" /></a>
+    </p>
+  </td>
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="https://github.com/joanferrevano/Organizador-de-Fotos" title="Ver proyecto">
+        <img align="center" width="100%" src="https://opengraph.githubassets.com/1/joanferrevano/Organizador-de-Fotos" alt="Organizador de Fotos" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/joanferrevano/Organizador-de-Fotos" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Organizador de Fotos" /></a>
+    </p>
+  </td>
+</tr>
+</table>
 </div>
+<br clear="left"/>
+<br><br>
 
----
+<div id="videos">
+<h2>Proyectos de vídeo 🎬</h2>
 
-### Sobre mí
-
-Combino dos disciplinas que normalmente van por separado: **desarrollo de software** y **creación de contenido audiovisual**. Vengo del mundo del código — apps móviles, backends, automatización — y ahora amplío mi formación hacia edición y realización audiovisual, con el objetivo de trabajar como editor/realizador en una agencia de marketing.
-
-En paralelo, llevo casi dos años construyendo mi propio canal de YouTube, donde aplico el mismo enfoque analítico que uso programando: sistemas, datos y optimización, aplicados esta vez a guion, SEO y edición.
-
-- 🔭 Actualmente cursando **Realización de Proyectos Audiovisuales y Espectáculos** (IES Luis García Berlanga)
-- 🎬 Construyendo mi canal de YouTube (@joanferreyt) con un pipeline de producción propio: guion → grabación → edición → SEO → publicación
-- 🛠️ Desarrollando herramientas para automatizar mi propio flujo de creación de contenido (extracción de clips, generación de miniaturas, gestión de metadatos)
-- 💼 Prácticas completadas en **ARQU** (agencia creativa), automatizando onboarding de clientes con Odoo
-- 🌱 Aprendiendo constantemente sobre narrativa audiovisual, dirección y postproducción
-
----
-
-### Stack técnico
-
-<div align="center">
-
-**Desarrollo**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,python,cs,aws,git,github,androidstudio" />
-
-**Audiovisual & Edición**
-
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
-![vidIQ](https://img.shields.io/badge/vidIQ-E62117?style=flat-square&logo=youtube&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-
+<table align="left">
+<tr border="none">
+  <td width="33%" align="center">
+    <p align="center">
+      <a href="https://youtu.be/q6UhOkNtAzQ" title="Ver vídeo">
+        <img align="center" width="100%" src="https://img.youtube.com/vi/q6UhOkNtAzQ/hqdefault.jpg" alt="VIDEO" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://youtu.be/q6UhOkNtAzQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@joanferreyt" /></a>
+    </p>
+  </td>
+  <td width="33%" align="center">
+    <p align="center">
+      <a href="https://youtu.be/91ZBy8ZPSG0" title="Ver vídeo">
+        <img align="center" width="100%" src="https://img.youtube.com/vi/91ZBy8ZPSG0/hqdefault.jpg" alt="VIDEO" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://youtu.be/91ZBy8ZPSG0" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@joanferreyt" /></a>
+    </p>
+  </td>
+  <td width="33%" align="center">
+    <p align="center">
+      <a href="https://www.tiktok.com/@joanferree/video/7514642865578855702" title="Ver vídeo">
+        <img align="center" width="100%" src="https://img.shields.io/badge/-Ver_clip-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TIKTOK" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://www.tiktok.com/@joanferree/video/7514642865578855702" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@joanferree" /></a>
+    </p>
+  </td>
+</tr>
+</table>
 </div>
+<br clear="left"/>
+<br><br><br>
 
----
+<h2>GitHub :octocat:</h2>
+<p align="center">
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
+  <img title="🔥 Get streak stats for your profile" alt="Racha de contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=joanferrevano&theme=dark&hide_border=false" />
+</td>
+<td width="40%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanferrevano&theme=dark&hide_border=false&layout=compact&langs_count=10" />
+</td>
+</tr>
+</table>
 
-### Proyectos destacados
-
-#### 💻 Código
-
-| Proyecto | Descripción |
-|---|---|
-| **[BatoiLOGIC](https://github.com/PROJ-FerreVanoJoan)** | Proyecto final de grado — ecosistema de gestión logística: app Flutter, API REST en Spring Boot sobre AWS EC2, backoffice en C# y módulos Odoo a medida |
-| **[La Caseta](https://github.com/joanferrevano/la-caseta)** | Sistema de reservas con control de acceso por QR/PIN para un evento de 100+ asistentes, desplegado en GitHub Pages |
-| **[PAUSA](https://github.com/joanferrevano/pausa-app)** | App Android (Flutter/Kotlin) de control de tiempo de pantalla con sistema de bloqueo por enfriamiento diario |
-| **[Organizador de Fotos](https://github.com/joanferrevano/Organizador-de-Fotos)** | Herramienta en Python para backup y organización de medios vía ADB |
-
-#### 🎬 Vídeo
-
-| Proyecto | Enlace |
-|---|---|
-| Vídeo — canal principal | [Ver en YouTube](https://youtu.be/q6UhOkNtAzQ) |
-| Vídeo — canal principal | [Ver en YouTube](https://youtu.be/91ZBy8ZPSG0) |
-| Short / clip | [Ver en TikTok](https://www.tiktok.com/@joanferree/video/7514642865578855702) |
-
-</br>
-
-<div align="center">
-<sub>💡 Puedes darle título propio a cada fila de la tabla de vídeo — por ejemplo, el nombre real del vídeo en vez de "Vídeo — canal principal".</sub>
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Trophy">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=joanferrevano&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
 </div>
+</p>
+<br clear="left"/>
+<br>
 
----
+<h2>YouTube ▶️</h2>
+<p align="left">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCvOVP1wvFGdMV5_UGncsbGw?style=for-the-badge&logo=youtube&label=Suscriptores&color=FF0000" alt="Suscriptores" />
+  <img src="https://img.shields.io/youtube/channel/views/UCvOVP1wvFGdMV5_UGncsbGw?style=for-the-badge&logo=youtube&label=Visualizaciones&color=FF0000" alt="Visualizaciones" />
+</p>
 
-### Estadísticas
-
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=joanferrevano&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanferrevano&layout=compact&hide_border=true"/>
-
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&label=Suscriptores&color=FF0000" alt="YouTube Subscribers"/>
-<img src="https://img.shields.io/youtube/channel/views/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&label=Visualizaciones&color=FF0000" alt="YouTube Views"/>
-</div>
-
-<div align="center">
-<sub>⚠️ El badge de YouTube necesita el <b>Channel ID</b> real (empieza por "UC..."), no el @handle. Puedes obtenerlo desde <a href="https://commentpicker.com/youtube-channel-id.php">commentpicker.com/youtube-channel-id.php</a> pegando tu URL de canal, y luego sustituir <code>YOUR_CHANNEL_ID</code> en las dos líneas de arriba.</sub>
-</div>
-
-<div align="center">
+<p align="center">
 <sub>Desarrollo con propósito, contenido con intención.</sub>
-</div>
+</p>
