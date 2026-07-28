@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hola 👋 soy Joan / joanferreyt </h1>
+<h1 align="center">Hola 👋 soy Joan / joanferreyt </h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@joanferreyt" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@joanferreyt" /></a>
@@ -20,7 +20,7 @@
 
 📝 roles: desarrollador... editor de vídeo... creador de contenido... y pronto realizador audiovisual
 
-📫 Contacto: **[joanferrecontact](joanferrecontact@gmail.com)**
+📫 Contacto: **[joanferrecontact@gmail.com](mailto:joanferrecontact@gmail.com)**
 
 </p>
 <br>
@@ -28,21 +28,18 @@
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,spring,cs,py,html,css,js,aws,git,github,vscode,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,spring,cs,unity,py,html,css,json,js,git,github,gitlab,aws,figma,vscode,visualstudio,idea,qt,bash,linux,mint,ubuntu,windows,mysql,mongodb,postgres,postman,md,notion,discord,linkedin,gmail,instagram,twitter&perline=11" />
   </a>
 </p>
-<br>
 
 <h2>Software de edición 🎬</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-  <img src="https://img.shields.io/badge/vidIQ-E62117?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro" width="48" height="48" alt="Premiere Pro" />
+  <img src="https://cdn.simpleicons.org/davinciresolve" width="48" height="48" alt="DaVinci Resolve" />
+  <img src="https://cdn.simpleicons.org/canva" width="48" height="48" alt="Canva" />
+  <img src="https://cdn.simpleicons.org/ffmpeg" width="48" height="48" alt="FFmpeg" />
 </p>
 <br>
-
 <div id="proyectos">
 <h2>Proyectos de código 👨🏻‍💻</h2>
 
@@ -122,7 +119,7 @@
   <td width="33%" align="center">
     <p align="center">
       <a href="https://www.tiktok.com/@joanferree/video/7514642865578855702" title="Ver vídeo">
-        <img align="center" width="100%" src="https://img.shields.io/badge/-Ver_clip-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TIKTOK" />
+        <img align="center" width="100%" src="https://img.shields.io/badge/▶️_Ver_clip-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="VIDEO" />
       </a>
     </p>
     <p align="center">
