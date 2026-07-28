@@ -133,30 +133,23 @@
 <br clear="left"/>
 <br><br><br>
 
-<h2>GitHub :octocat:</h2>
+<h2 align="center">GitHub :octocat:</h2>
 <p align="center">
-<table align="left">
+<table align="center">
 <tr border="none">
 <td width="60%" align="center">
   <img title="🔥 Get streak stats for your profile" alt="Racha de contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=joanferrevano&theme=dark&hide_border=false" />
 </td>
 <td width="40%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanferrevano&theme=dark&hide_border=false&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joanferrevano&theme=dark&hide_border=false&layout=compact&langs_count=10" />
 </td>
 </tr>
 </table>
-
-<div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Trophy">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=joanferrevano&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
 </p>
-<br clear="left"/>
 <br>
 
-<h2>YouTube ▶️</h2>
-<p align="left">
+<h2 align="center">YouTube ▶️</h2>
+<p align="center">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCvOVP1wvFGdMV5_UGncsbGw?style=for-the-badge&logo=youtube&label=Suscriptores&color=FF0000" alt="Suscriptores" />
   <img src="https://img.shields.io/youtube/channel/views/UCvOVP1wvFGdMV5_UGncsbGw?style=for-the-badge&logo=youtube&label=Visualizaciones&color=FF0000" alt="Visualizaciones" />
 </p>
