@@ -34,9 +34,10 @@
 
 <h2>Software de edición 🎬</h2>
 <p align="left">
-  <img src="https://cdn.simpleicons.org/adobepremierepro" width="48" height="48" alt="Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere Pro" />
   <img src="https://cdn.simpleicons.org/davinciresolve" width="48" height="48" alt="DaVinci Resolve" />
-  <img src="https://cdn.simpleicons.org/canva" width="48" height="48" alt="Canva" />
+  <img src="img/canva.png" width="48" height="48" alt="Canva" />
+  <img src="img/capcut.png" width="48" height="48" alt="CapCut" />
   <img src="https://cdn.simpleicons.org/ffmpeg" width="48" height="48" alt="FFmpeg" />
 </p>
 <br>
